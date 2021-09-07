@@ -1,5 +1,5 @@
 /*------------------------------------------------------------------------------------------
- |              Class: SpinnerAdapter.java
+ |              Class: CustomSpinnerAdapter.java
  |             Author: Jon Bateman
  |            Version: 1.0.1
  |
@@ -13,7 +13,7 @@
  +------------------------------------------------------------------------------------------
  |          Constants: N/A
  +------------------------------------------------------------------------------------------
- |       Constructors: SpinnerAdapter(Context context, int textViewResourceId,
+ |       Constructors: CustomSpinnerAdapter(Context context, int textViewResourceId,
  |                             List<String> objects) {}
  |                         - context: interface to global information on the app environment.
  |                         - textViewResourceId: the identifier for the spinner item layout
