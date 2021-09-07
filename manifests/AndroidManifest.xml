@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
 
-    package="com.cquelsoft.custom_spinner_adapter">
+    package="com.cqueltech.custom_spinner_adapter">
 
     <application android:allowBackup="false" android:label="@string/app_name"
         android:supportsRtl="true">
