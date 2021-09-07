@@ -21,7 +21,7 @@
  |                         - objects: list of strings each of which make up a single spinner
  |                                    item.
  +----------------------------------------------------------------------------------------*/
-package com.cquelsoft.custom_spinner_adapter;
+package com.cqueltech.custom_spinner_adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
